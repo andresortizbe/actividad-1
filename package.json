@@ -14,7 +14,7 @@
     "nodemon": "^2.0.6"
   },
   "dependencies": {
-    "morgan": "^1.10.0",
-    "react-router": "^5.2.0"
+    "mime": "^2.4.7",
+    "morgan": "^1.10.0"
   }
 }
